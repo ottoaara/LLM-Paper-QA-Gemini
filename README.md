@@ -67,17 +67,3 @@ Upload some LLM papers to the app.
 Ask a question like:
 <!-- end list -->
 
-"What are the key differences between GPT-3 and GPT-4?"
-"What are the latest advancements in reinforcement learning for LLMs?"
-Let me know if you'd like any modifications to this README file!
-
-
-**Key Improvements:**
-
-- Clear instructions for both local and Colab usage.
-- Badges for easy access to the app.
-- Explanation of the underlying technology.
-- Code structure overview.
-- Example questions to get users started. 
-
-Let me know if you'd like any more help! 
