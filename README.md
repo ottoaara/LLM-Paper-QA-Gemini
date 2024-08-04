@@ -23,7 +23,7 @@ Chat with the knowledge extracted from the latest LLM research papers using this
    git clone [invalid URL removed]
    cd your-repo-name
 
-2. Install Dependencies:
+**2. Install Dependencies:**
 
 pip install -r requirements.txt
 
@@ -31,16 +31,16 @@ pip install -r requirements.txt
 
 (Make sure you have a virtual environment activated)
 
-3. Set Up Google API Key:
+**3. Set Up Google API Key:**
 
 Create a .env file in the project root directory.
 Add your Google API key to the .env file: GOOGLE_API_KEY=your_api_key
 
-4. Run the App:
+**4. Run the App:**
 streamlit run app.py
 The app will open in your web browser.
 
- On Google Colab:
+** On Google Colab:**
 
     
 
